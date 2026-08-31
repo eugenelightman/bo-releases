@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.0/boT.exe",
-  "notes": "Minor changes and bug fixes.",
+  "version": "1.0.4",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.0.4/boT.exe",
+  "notes": "AutoUpdate fix.",
   "required": false
 }
