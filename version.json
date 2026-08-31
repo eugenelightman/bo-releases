@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.0.1/boT.exe",
-  "notes": "Removed title borders from the initial pop ups.",
+  "version": "1.0.3",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.0/boT.exe",
+  "notes": "Minor changes and bug fixes.",
   "required": false
 }
