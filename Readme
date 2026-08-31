@@ -1,0 +1,23 @@
+## v1.0.0 — Initial Release
+
+First public build. Requires an active license (HWID-locked) — contact the seller for a key if you don't have one yet.
+
+### Features
+- **Automation macros** — build unlimited custom macros per game window, with independent hotkeys and per-window/per-preset targeting
+- **AutoPot / AutoCharm / AutoAttack** — reads HP/MP/Level straight from the game client so pots and charms fire automatically at your thresholds
+- **Auto Heal** and **Auto Mobs** — always-on background helpers, independent of the main Start/Stop toggle
+- **Follow system** — assist targeting across party slots (PM1–PM5), shared per preset
+- **Multi-window support** — auto-detect and arrange every open game window, run macros across all of them, "nail" windows in place
+- **Built-in auto-updater** — the app checks for new versions on launch and, before installing one, automatically backs up your current build *and* your settings into a timestamped `backup_YYYYMMDD_HHMMSS` folder
+
+### Setup
+1. Run the app and log in with the account/login your license was issued under
+2. First launch may take a moment while it grabs your machine's HWID and verifies your license
+3. Open Settings to configure macros, hotkeys, and window bindings for your setup
+
+### Known limitations
+- Windows only
+- One license per HWID — reinstalling Windows will require re-issuing your license
+
+---
+Found a bug? Report it to the seller with your login and a description of what happened.
