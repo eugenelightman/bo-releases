@@ -1,6 +1,6 @@
 {
   "version": "1.1.4",
   "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.1.4/boT.exe",
-  "notes": "Removed dip transition when switching settings tabs\nEnhanced overall settings performance (now it opens faster)\nAdded new button to select area for cascading windows in window tab",
+  "notes": "",
   "required": false
 }
