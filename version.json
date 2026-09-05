@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.0/boT.exe",
-  "notes": "Added prices checker, enhanced dragon orbs calculator (now it parses real cat prices)",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.0.upd/boT.exe",
+  "notes": "added tesseract OCR, so u dont need to install it.",
   "required": false
 }
