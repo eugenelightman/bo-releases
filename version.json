@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.1.6/boT.exe",
-  "notes": "updated some icons\nadded tome calculator",
+  "version": "1.2.0",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.0/boT.exe",
+  "notes": "Added prices checker, enhanced dragon orbs calculator (now it parses real cat prices)",
   "required": false
 }
