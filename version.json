@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.0.upd/boT.exe",
-  "notes": "added tesseract OCR, so u dont need to install it.",
+  "version": "1.2.1",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.1/boT.exe",
+  "notes": "added jump hotkey (kinda jumphack)",
   "required": false
 }
