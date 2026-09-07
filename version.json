@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.1/boT.exe",
-  "notes": "added jump hotkey (kinda jumphack)",
+  "version": "1.2.3",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.3/boT.exe",
+  "notes": "Added MFJ tab (Move/Fly/Jump) test it out",
   "required": false
 }
