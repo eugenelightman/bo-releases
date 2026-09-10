@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.4/boT.exe",
-  "notes": "Fixed MFJ so it only works in active window",
+  "version": "1.2.5",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.5/boT.exe",
+  "notes": "Added pop up for the MFJ feature",
   "required": false
 }
