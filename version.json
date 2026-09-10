@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.6/boT.exe",
-  "notes": "Minor bug fixes.",
-  "required": false
+  "version": "1.2.7",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.7/boT.exe",
+  "notes": "Update test flight",
+  "required": true
 }
