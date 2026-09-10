@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.3/boT.exe",
-  "notes": "Added MFJ tab (Move/Fly/Jump) test it out",
+  "version": "1.2.4",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.4/boT.exe",
+  "notes": "Fixed MFJ so it only works in active window",
   "required": false
 }
