@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.10/boT.exe",
-  "notes": "autoheal can heal alien players. fixed follow/action after heal",
+  "version": "1.2.12",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.12/boT.exe",
+  "notes": "Fixed offsets for the updated version (version 10)\nDO NOT UPDATE if you're on the older version of the client.",
   "required": false
 }
