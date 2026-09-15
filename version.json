@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.12/boT.exe",
-  "notes": "Fixed offsets for the updated version (version 10)\nDO NOT UPDATE if you're on the older version of the client.",
+  "version": "1.2.13",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.13/boT.exe",
+  "notes": "Minor fixes regarding autoheal",
   "required": false
 }
