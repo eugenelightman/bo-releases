@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.13/boT.exe",
-  "notes": "Minor fixes regarding autoheal",
-  "required": false
+  "version": "1.2.14",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.14/boT.exe",
+  "notes": "Now supports manual baseaddress input",
+  "required": true
 }
