@@ -1,7 +1,7 @@
 {
-  "version": "1.2.16",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.16/boT.exe",
-  "notes": "Update fix",
-  "required": true,
-  "sha256": "3e2385d9d8aab90d16bc77c790303a8163d5b0deab1b93cd0486a6c8fb09baa9"
+  "version": "1.2.17",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.17/boT.exe",
+  "notes": "Golden egg spinning animation cs-go style.",
+  "required": false,
+  "sha256": "5594b0c9a3008e3911ab945b18c8049dbec140eb76d7764a23ae413c2e2201e7"
 }
