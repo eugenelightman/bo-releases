@@ -1,7 +1,7 @@
 {
-  "version": "1.2.150",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/untagged-c5c3211a548b750e0f6f/boT.exe",
-  "notes": "Security update. Now it uses cloudflare",
+  "version": "1.2.151",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.151/boT.exe",
+  "notes": "Security update now it uses cloudflare.",
   "required": true,
   "sha256": "93f3b401cdb83f3732912a2e091ad0427c00ffa349cd699f9db9eaecd46fb7b4"
 }
