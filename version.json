@@ -1,7 +1,7 @@
 {
-  "version": "1.2.18",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.18/boT.exe",
-  "notes": "Changed the algorithm. Now it uses native C code.",
+  "version": "1.2.19",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.19/boT.exe",
+  "notes": "UPD",
   "required": false,
-  "sha256": "1f26c21996297b237e7ece4c0281cfbb7181877b5d4f74528e3d6b440b50d7bf"
+  "sha256": "f048f807a4faa22c3e3d750cecfe7c3005f52d8ef129335233f869bee7abd44d"
 }
