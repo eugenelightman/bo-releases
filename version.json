@@ -1,7 +1,7 @@
 {
-  "version": "1.2.17",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.17/boT.exe",
-  "notes": "Golden egg spinning animation cs-go style.",
+  "version": "1.2.18",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.18/boT.exe",
+  "notes": "Changed the algorithm. Now it uses native C code.",
   "required": false,
-  "sha256": "5594b0c9a3008e3911ab945b18c8049dbec140eb76d7764a23ae413c2e2201e7"
+  "sha256": "1f26c21996297b237e7ece4c0281cfbb7181877b5d4f74528e3d6b440b50d7bf"
 }
