@@ -1,6 +1,7 @@
 {
-  "version": "1.2.14",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/1.2.14/boT.exe",
-  "notes": "Now supports manual baseaddress input",
-  "required": true
+  "version": "1.2.150",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/untagged-c5c3211a548b750e0f6f/boT.exe",
+  "notes": "Security update. Now it uses cloudflare",
+  "required": true,
+  "sha256": "93f3b401cdb83f3732912a2e091ad0427c00ffa349cd699f9db9eaecd46fb7b4"
 }
